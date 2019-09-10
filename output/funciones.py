@@ -1,1 +1,0 @@
-df = pd.read_csv(('./input/Pokemon.csv'), encoding = 'ISO-8859-1')
